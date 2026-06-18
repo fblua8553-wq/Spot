@@ -5,10 +5,10 @@
 // ============================================================
 
 // ─── Database Credentials ────────────────────────────────────
-$db_host = "sqlXXX.infinityfree.com";   // Your DB Host
-$db_user = "if0_XXXXXX";               // Your DB User
-$db_pass = "your_db_password";         // Your DB Password
-$db_name = "if0_XXXXXX_db_name";       // Your DB Name
+$db_host = "mysql-14e1053d-fblua8553-2a4c.i.aivencloud.com";   // Your DB Host
+$db_user = "avnadmin";               // Your DB User
+$db_pass = "AVNS_CcISlT7yc3Y5mITXstz";         // Your DB Password
+$db_name = "defaultdb";       // Your DB Name
 // ─────────────────────────────────────────────────────────────
 
 mysqli_report(MYSQLI_REPORT_ERROR | MYSQLI_REPORT_STRICT);
